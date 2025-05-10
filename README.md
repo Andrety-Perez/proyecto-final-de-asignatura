@@ -8,7 +8,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Andrety-Perez/proyecto-final-de-asignatura.git
    cd filmicoo
    ```
 
